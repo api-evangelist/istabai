@@ -1,0 +1,62 @@
+{
+    "name": "ISTABAI",
+    "description": "<p>Istabai is an application that allows users to manage their home heating systems from anywhere with an internet connection. Users can set the service up simply by changing their radiator head and plugging in Istabai's internet cable. The Istabai mobile application and web solution will relay the current temperature to the user and allow them to regulate it as they like. The system can also be accessed and controlled programmatically via REST API. The Istabai website is provided in English, Russian, and Latvian.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1859-istabai.jpg",
+    "tags": [
+        "api provider",
+        "buildings",
+        "have api",
+        "internet of things"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/istabai\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ISTABAI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1859-istabai.jpg",
+            "humanURL": "http:\/\/istabai.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/istabai-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/istabai-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/istabia"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/istabai.com\/api\/?lang=en"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/istabai.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@istabai.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/istabai"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/istabai.com\/"
+        }
+    ]
+}
